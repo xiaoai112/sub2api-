@@ -1,7 +1,7 @@
 # xub2api-
 sub2api 抽奖插件：充值资格校验、加权抽奖、兑换码发放与合并、状态过滤及审计记录。
 # 抽奖插件安装教程
-
+https://eap.jindunlianghua.cn/   最低倍率0.1 不定时还有0.05倍率
 ## 1. 软件要求
 
 - Linux 主机，Node.js 18 或更高版本
