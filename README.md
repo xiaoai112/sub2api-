@@ -2,6 +2,9 @@
 sub2api 抽奖插件：充值资格校验、加权抽奖、兑换码发放与合并、状态过滤及审计记录。
 # 抽奖插件安装教程
 https://eap.jindunlianghua.cn/   最低倍率0.1 不定时还有0.05倍率
+<img width="552" height="329" alt="image" src="https://github.com/user-attachments/assets/61f5ef54-ff8f-45bd-8a9b-537592d546b4" />
+<img width="1355" height="781" alt="image" src="https://github.com/user-attachments/assets/2ae6bfc3-4e1b-4b77-9a15-af108aeae87b" />
+
 ## 1. 软件要求
 
 - Linux 主机，Node.js 18 或更高版本
