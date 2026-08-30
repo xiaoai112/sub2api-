@@ -2,6 +2,14 @@
 
 本包包含两部分：抽奖服务端和登录后中奖播报前端脚本。服务端只监听 `127.0.0.1`，由 Nginx 代理给网站使用。
 
+<img width="1555" height="807" alt="image" src="https://github.com/user-attachments/assets/3c32106e-62a4-435e-8c16-0f05c26ca1a2" />
+
+
+
+<img width="1662" height="285" alt="image" src="https://github.com/user-attachments/assets/f86a317a-bf39-445b-94e6-d36ab6b7c7c8" />
+
+
+
 ## 一、包含内容
 
 - `server.js`：抽奖 API 服务
