@@ -1,0 +1,26 @@
+{
+  "port": 3001,
+  "bindHost": "127.0.0.1",
+  "sub2apiBase": "http://127.0.0.1:8080",
+  "sub2apiConfigPath": "/path/to/sub2api/config.yaml",
+  "adminKeyPath": "/secure/path/sub2api-admin-key",
+  "timezoneOffsetHours": 8,
+  "minRechargeThreshold": 100,
+  "dailyDrawLimit": 4,
+  "codeExpiresInDays": 1,
+  "tiers": [
+    { "min": 1000, "draws": 4 },
+    { "min": 600, "draws": 3 },
+    { "min": 200, "draws": 2 },
+    { "min": 100, "draws": 1 }
+  ],
+  "prizes": [
+    { "key": "first", "name": "一等奖", "value": 10, "weight": 2 },
+    { "key": "second", "name": "二等奖", "value": 5, "weight": 8 },
+    { "key": "third", "name": "三等奖", "value": 3, "weight": 10 },
+    { "key": "fourth", "name": "四等奖", "value": 1, "weight": 40 },
+    { "key": "none", "name": "谢谢参与", "value": 0.1, "weight": 40 }
+  ],
+  "alertRateWindowMinutes": 10,
+  "alertRateThreshold": 50
+}
